@@ -17,7 +17,7 @@ python eda.py
 ```
 ### The script will:
 
- Load the Titanic dataset using sns.load_dataset('titanic')
+1.  Load the Titanic dataset using sns.load_dataset('titanic')
 
 2. Display dataset overview including shape, column info, and missing values
 
